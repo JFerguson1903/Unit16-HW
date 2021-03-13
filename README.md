@@ -1,31 +1,33 @@
-# Unit 8 Homework - Professional Materials
+# Unit 16 Homework - Professional Materials
 
 ## Description
 
 This assignment through Triliogy/WASHU Coding Bootcamp was to give the opportunity to update my "portfolio page and other materials to build toward being employer-competitive". The requirements for the assignment are as follows: 
 
-- Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
-- Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-- Submit an updated resume
-- Submit an updated LinkedIn profile
+- Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks.
+- Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks.
+- Updated resume.
+- Updated LinkedIn profile.
 
 ## Usage
 
-[Click here](https://jferguson1903.github.io/Unit8-HW/) to access the updated deployed application pictured below.
+[Click here](https://jferguson1903.github.io/Unit16-HW/) to access the updated deployed application pictured below.
 
 ![about_me](https://jferguson1903.github.io/Unit8-HW/Images/HW-8.jpg)
 
 ## Credits
 
-* Bootstrap v4.5: https://getbootstrap.com/
+* [Bootstrap v4.5](https://getbootstrap.com/)
 
-* https://www.webhostingsecretrevealed.net/free-icons/ - social media icons
+* [Social media icons](https://www.webhostingsecretrevealed.net/free-icons/)
 
-* https://www.dreamstime.com/ - background image
+* [background image](https://www.dreamstime.com/)
 
-* Font Awesome v5.8.1: https://use.fontawesome.com/
+* [Font Awesome v5.8.1](https://use.fontawesome.com/)
 
-* Reference material for resume & social media updates provided by '© 2020 Trilogy Education Services, a 2U, Inc. brand', 'Coding Boot Camp Career Services © 2020.' All Rights Reserved.
+* [Optimizing Images](https://tinypng.com/)
+
+* Reference material for resume & social media updates provided by '© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand', 'Coding Boot Camp Career Services © 2021.' All Rights Reserved.
 
 ## License
 

@@ -27,7 +27,7 @@ This assignment through Triliogy/WASHU Coding Bootcamp was to give the opportuni
 
 * [Optimizing Images](https://tinypng.com/)
 
-* Reference material for resume & social media updates provided by '© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand', 'Coding Boot Camp Career Services © 2021.' All Rights Reserved.
+* Project idea provided by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 ## License
 
